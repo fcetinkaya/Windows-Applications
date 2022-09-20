@@ -1,5 +1,5 @@
-# Windows Uygulama Örnekleri
-C# ve Windows masaüstü uygulama yazılım konusunda kendisini geliştirmek isteyenler için hazırlanmıştır.
+# Windows Applications
+It is prepared for those who want to improve themselves in C # and Windows desktop application software.
 
 
 ## Table of contents
